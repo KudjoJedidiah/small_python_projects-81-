@@ -11,6 +11,7 @@ This repository serves as a personal portfolio tracking my progress through all 
 | # | Game Name | File | Description |
 |---|---|---|---|
 | 01 | **Bagels** | `bagels.py` | A deductive logic guessing game where you try to guess a secret 3-digit number based on *Pico*, *Fermi*, and *Bagels* clues[cite: 1]. |
+| 02 | **Birthday Paradox** | `birthday_paradox.py` | A Monte Carlo simulation that explores the surprising probability of shared birthdays in a group of people. |
 
 ---
 
@@ -20,3 +21,5 @@ Make sure you have Python installed on your system. You can run any game directl
 
 ```bash
 python bagels.py
+# or
+python birthday_paradox.py
