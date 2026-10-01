@@ -23,6 +23,8 @@ bitmap = """
                      **    *                       *
 ...................................................................."""
 
+
+
 print('Bitmap Message')
 print('Enter the message to display with the bitmap.')
 message = input('> ')
